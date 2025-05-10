@@ -96,5 +96,5 @@ A: 这是PyInstaller打包的常见问题，可[提交文件到病毒检测](htt
 
 开发者：林治宏  
 邮箱：lzh437951@gmail.com  
-项目主页：[https://github.com/yourusername/image-converter]
+项目主页：(https://github.com/ek807/-image_converter-)
 ```
