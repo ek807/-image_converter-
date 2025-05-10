@@ -2,7 +2,7 @@
 一款基于Python和PyQt6开发的图形界面工具，支持多种图片格式之间的相互转换，包括： - JPG/JPEG - PNG - BMP - GIF - TIFF - WEBP - ICO
 以下是一个专业的 `README.md` 文件模板，适用于你的图片格式转换器项目，包含所有必要的信息和格式：
 
-```markdown
+
 # 图片格式转换器
 
 
@@ -95,6 +95,6 @@ A: 这是PyInstaller打包的常见问题，可[提交文件到病毒检测](htt
 ## 联系方式
 
 开发者：林治宏  
-邮箱：your.email@example.com  
+邮箱：lzh437951@gmail.com  
 项目主页：[https://github.com/yourusername/image-converter]
 ```
